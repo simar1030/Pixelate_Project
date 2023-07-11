@@ -1,5 +1,5 @@
 
-# Pixelate-2k22-Technex
+# Pixelate|Technex'22
 
 This is the code that got us 3rd position in Pixelate-2k22, an image processing event.
 
