@@ -1,7 +1,7 @@
 
-# Pixelate|Technex'22
+# Pixelate | Technex'22
 
-This is the code that got us 3rd position in Pixelate-2k22, an image processing event.
+This is the code for Pixelate, an image processing event.
 
 Pixelate is an event under **TECHNEX**, the annual Techo-Management fest of IIT (BHU) Varanasi.
 
